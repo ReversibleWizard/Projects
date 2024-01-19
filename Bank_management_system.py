@@ -6,8 +6,8 @@
 
 import mysql.connector
 from datetime import datetime
-from ipywidgets import Dropdown
-import IPython.display as display
+#from ipywidgets import Dropdown
+#import IPython.display as display
 import random
 import sys
 import keyboard
